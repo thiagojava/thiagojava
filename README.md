@@ -1,8 +1,8 @@
 
 - 👋 Hi, I’m @thiagojava
-- 👀 I’m interested in  aprender
+- 👀 I’m interested in  learning
 - 🌱 I’m currently learning  PHP
-- 💞️ I’m looking to collaborate  com todos.
+- 💞️ I’m looking to collaborate  with everyone.
 - 📫 How to reach me  dutrainformatica5@gmail.com
 
 <!---
