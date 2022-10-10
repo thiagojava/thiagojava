@@ -11,8 +11,6 @@
   <img align="center" alt="thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="thiago-pic" height="150" style="border-radius:50px;" src="https://i.postimg.cc/GtNjTsmH/profile-pic.png">
 </div>
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
-
 
   ##
 
